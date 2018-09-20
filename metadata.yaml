@@ -1,0 +1,32 @@
+_repo: The-Netherworld-of-Mendip-Explorations-in-the-great-caverns-of-Somerset-Yorkshire-Derbyshire-__53063
+_version: 0.0.1
+creator:
+  authors:
+  - agent_name: Baker, Ernest A. (Ernest Albert)
+    alias: Baker, Ernest Albert
+    birthdate: 1869
+    deathdate: 1941
+    gutenberg_agent_id: '47203'
+    url: http://www.gutenberg.org/2009/agents/47203
+  - agent_name: Balch, H. E. (Herbert Ernest)
+    alias: Balch, Herbert Ernest
+    gutenberg_agent_id: '47204'
+    url: http://www.gutenberg.org/2009/agents/47204
+description: ''
+gutenberg_issued: '2016-09-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '53063'
+  lccn: 09017313
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'GB'
+- !lcsh 'Caves'
+- !lcsh 'Mendip Hills (England)'
+- GITenberg
+title: "The Netherworld of Mendip\r\nExplorations in the great caverns of Somerset,\
+  \ Yorkshire, Derbyshire, and elsewhere"
+url: http://www.gutenberg.org/ebooks/53063
