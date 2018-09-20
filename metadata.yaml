@@ -1,5 +1,8 @@
 _repo: The-Netherworld-of-Mendip-Explorations-in-the-great-caverns-of-Somerset-Yorkshire-Derbyshire-__53063
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 53063-h/images/cover-image.jpg
 creator:
   authors:
   - agent_name: Baker, Ernest A. (Ernest Albert)
@@ -13,6 +16,8 @@ creator:
     gutenberg_agent_id: '47204'
     url: http://www.gutenberg.org/2009/agents/47204
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/53063#The-Netherworld-of-Mendip-Explorations-in-the-great-caverns-of-Somerset-Yorkshire-Derbyshire-_
 gutenberg_issued: '2016-09-16'
 gutenberg_type: Text
 identifiers:
